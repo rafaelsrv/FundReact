@@ -4,6 +4,7 @@ function page3(){
         <div>
             <p>Olá Mundo</p>
             <p>Olá Mundo</p>
+            <p>Olá Mundo</p>
         </div>
     )
 }
